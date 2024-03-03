@@ -18,14 +18,16 @@ nourez/nourez.dev is built on the following main stack:
 Full tech stack [here](/techstack.md)
 
 &lt;--- Readme.md Snippet with images End ---&gt;
+
+quick comment to test git push
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [nourez/nourez.dev](https://github.com/nourez/nourez.dev)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|1<br/>Tools used|03/03/24 <br/>Report generated|
-|------|------|
+| 1<br/>Tools used | 03/03/24 <br/>Report generated |
+| ---------------- | ------------------------------ |
 </div>
 
 ## <img src='https://img.stackshare.io/devops.svg'/> DevOps (1)
